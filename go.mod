@@ -3,6 +3,7 @@ module github.com/spf13/viper
 go 1.12
 
 require (
+	github.com/kubernetes/kube-state-metrics v1.7.0
 	github.com/armon/consul-api v0.0.0-20180202201655-eb2c6b5be1b6 // indirect
 	github.com/coreos/bbolt v1.3.2 // indirect
 	github.com/coreos/etcd v3.3.10+incompatible // indirect
