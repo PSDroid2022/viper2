@@ -4,6 +4,7 @@ go 1.12
 
 require (
 	github.com/armon/consul-api v0.0.0-20180202201655-eb2c6b5be1b6 // indirect
+	github.com/astaxie/beego v1.10.0
 	github.com/coreos/bbolt v1.3.2 // indirect
 	github.com/coreos/etcd v3.3.10+incompatible // indirect
 	github.com/coreos/go-semver v0.2.0 // indirect
@@ -22,6 +23,7 @@ require (
 	github.com/jonboulle/clockwork v0.1.0 // indirect
 	github.com/magiconair/properties v1.8.1
 	github.com/mitchellh/mapstructure v1.1.2
+	github.com/openzipkin-contrib/zipkin-go-opentracing v0.3.5
 	github.com/pelletier/go-toml v1.2.0
 	github.com/prometheus/client_golang v0.9.3 // indirect
 	github.com/soheilhy/cmux v0.1.4 // indirect
@@ -43,5 +45,4 @@ require (
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4 // indirect
 	google.golang.org/grpc v1.21.0 // indirect
 	gopkg.in/yaml.v2 v2.2.4
-	github.com/openzipkin-contrib/zipkin-go-opentracing v0.3.5
 )
