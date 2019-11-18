@@ -13,6 +13,7 @@ require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
 	github.com/fsnotify/fsnotify v1.4.7
 	github.com/gogo/protobuf v1.2.1 // indirect
+	github.com/goharbor/harbor v1.7.0
 	github.com/golang/groupcache v0.0.0-20190129154638-5b532d6fd5ef // indirect
 	github.com/google/btree v1.0.0 // indirect
 	github.com/gorilla/websocket v1.4.0 // indirect
@@ -23,9 +24,11 @@ require (
 	github.com/jonboulle/clockwork v0.1.0 // indirect
 	github.com/magiconair/properties v1.8.1
 	github.com/mitchellh/mapstructure v1.1.2
+	github.com/opencontainers/runc v0.0.1
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.3.5
 	github.com/pelletier/go-toml v1.2.0
 	github.com/prometheus/client_golang v0.9.3 // indirect
+	github.com/seccomp/libseccomp-golang v0.9.0
 	github.com/soheilhy/cmux v0.1.4 // indirect
 	github.com/spf13/afero v1.1.2
 	github.com/spf13/cast v1.3.0
